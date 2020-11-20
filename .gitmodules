@@ -10,3 +10,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work12_dirinfo.git
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/12_dirinfo.git
+	branch = master
