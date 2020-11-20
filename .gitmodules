@@ -6,3 +6,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_dir_info.git
 	branch = main
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work12_dirinfo.git
+	branch = main
