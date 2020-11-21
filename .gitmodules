@@ -14,3 +14,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/12_dirinfo.git
 	branch = master
+[submodule "raoIva"]
+	path = raoIva
+	url = https://github.com/irao12/systems_12_dirinfo.git
+	branch = main
