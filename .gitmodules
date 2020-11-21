@@ -30,3 +30,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/12_dirinfo_vj.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/12_dirinfo_mks.git
+	branch = main
