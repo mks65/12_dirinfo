@@ -26,3 +26,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/12_dirinfo_zhangAle
 	branch = master
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/12_dirinfo_vj.git
+	branch = main
