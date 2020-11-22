@@ -34,3 +34,7 @@
 	path = hirotaEis
 	url = https://github.com/ei5uke/12_dirinfo_mks.git
 	branch = main
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/12_dirinfo
+	branch = main
