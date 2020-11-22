@@ -46,3 +46,7 @@
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/12_dirinfo_mks.git
 	branch = main
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/12_dirinfo.git
+	branch = main
