@@ -42,3 +42,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/systems_12_dirinfo.git
 	branch = main
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/12_dirinfo_mks.git
+	branch = main
