@@ -54,3 +54,7 @@
 	path = liSun
 	url = https://github.com/sunnyli13/Work12.git
 	branch = main
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/12_dirinfo.git
+	branch = main
