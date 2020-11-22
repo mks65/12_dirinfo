@@ -50,3 +50,7 @@
 	path = maoMad
 	url = https://github.com/madelynxmao/12_dirinfo.git
 	branch = main
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work12.git
+	branch = main
