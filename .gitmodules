@@ -58,3 +58,7 @@
 	path = linLei
 	url = https://github.com/llin11/12_dirinfo.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-12_dirinfo.git
+	branch = master
