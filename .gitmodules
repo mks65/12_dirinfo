@@ -38,3 +38,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/12_dirinfo
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_12_dirinfo.git
+	branch = main
