@@ -62,3 +62,7 @@
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-12_dirinfo.git
 	branch = master
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/12_dirinfo
+	branch = main
