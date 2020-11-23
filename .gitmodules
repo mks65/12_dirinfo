@@ -70,3 +70,7 @@
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_12_dir.git
 	branch = master
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/12_dirinfo
+	branch = main
