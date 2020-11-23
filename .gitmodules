@@ -82,3 +82,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/12_dirinfo_J.git
 	branch = main
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/12_systems.git
+	branch = main
