@@ -74,3 +74,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/12_dirinfo
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-12
+	branch = master
