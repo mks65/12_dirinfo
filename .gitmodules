@@ -133,3 +133,7 @@
 	path = waldAle
 	url = https://github.com/SashaWald/work12.git
 	branch = main
+[submodule "hernandezCar"]
+	path = hernandezCar
+	url = https://github.com/KarlWithK/12_dirinfo_mks.git
+	branch = master
