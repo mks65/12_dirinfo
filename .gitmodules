@@ -90,3 +90,7 @@
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw12.git
 	branch = main
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/12_directory
+	branch = master
