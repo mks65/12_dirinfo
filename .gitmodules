@@ -78,3 +78,7 @@
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-12
 	branch = master
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/12_dirinfo_J.git
+	branch = main
