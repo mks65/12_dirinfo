@@ -114,3 +114,7 @@
 	path = zhouKel
 	url = https://github.com/KellyZhou223/dirinfo.git
 	branch = master
+[submodule "aliLiu"]
+	path = aliLiu
+	url = https://github.com/aliu889/12_dirinfo_.git
+	branch = master
