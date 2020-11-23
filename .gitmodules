@@ -98,3 +98,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/12_Dirinfo.git
 	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work12
+	branch = main
