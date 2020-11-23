@@ -125,3 +125,7 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/12_dirinfo.git
 	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_12.git
+	branch = main
