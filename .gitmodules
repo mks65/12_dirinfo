@@ -106,3 +106,7 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw12_dirinfo
 	branch = master
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_12_dirinfo.git
+	branch = main
