@@ -138,3 +138,7 @@
 	path = chanSer
 	url = https://github.com/schan11/dirinfo-.git
 	branch = master
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/12_dirinfo.git
+	branch = main
